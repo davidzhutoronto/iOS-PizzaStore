@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA487D1727B200B40059D171 /* Screen2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA487D1627B200B40059D171 /* Screen2ViewController.swift */; };
 		DADDAFF427AA14F5002E86C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADDAFF327AA14F5002E86C9 /* AppDelegate.swift */; };
 		DADDAFF627AA14F5002E86C9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADDAFF527AA14F5002E86C9 /* SceneDelegate.swift */; };
 		DADDAFF827AA14F5002E86C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADDAFF727AA14F5002E86C9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA487D1627B200B40059D171 /* Screen2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2ViewController.swift; sourceTree = "<group>"; };
 		DADDAFF027AA14F5002E86C9 /* PIZZA_DAVID_DZHU34.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PIZZA_DAVID_DZHU34.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DADDAFF327AA14F5002E86C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DADDAFF527AA14F5002E86C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,11 +60,12 @@
 			children = (
 				DADDAFF327AA14F5002E86C9 /* AppDelegate.swift */,
 				DADDAFF527AA14F5002E86C9 /* SceneDelegate.swift */,
-				DADDAFF727AA14F5002E86C9 /* ViewController.swift */,
 				DADDAFF927AA14F5002E86C9 /* Main.storyboard */,
 				DADDAFFC27AA14F5002E86C9 /* Assets.xcassets */,
 				DADDAFFE27AA14F5002E86C9 /* LaunchScreen.storyboard */,
 				DADDB00127AA14F5002E86C9 /* Info.plist */,
+				DADDAFF727AA14F5002E86C9 /* ViewController.swift */,
+				DA487D1627B200B40059D171 /* Screen2ViewController.swift */,
 			);
 			path = PIZZA_DAVID_DZHU34;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DADDAFF827AA14F5002E86C9 /* ViewController.swift in Sources */,
 				DADDAFF427AA14F5002E86C9 /* AppDelegate.swift in Sources */,
 				DADDAFF627AA14F5002E86C9 /* SceneDelegate.swift in Sources */,
+				DA487D1727B200B40059D171 /* Screen2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
